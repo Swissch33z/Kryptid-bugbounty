@@ -31,7 +31,7 @@ pip install requests Pillow
 1. Clone this repository or download the script file.
 2. Run the script using Python:
    ```bash
-   python kryptid_hunter.py
+   python Kryptid.py
    ```
 3. Follow the on-screen menu to select the desired scanner or feature.
 
